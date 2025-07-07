@@ -1,6 +1,9 @@
 // Gustavo Corona
 // July 6, 2025
 
+// *V* Url for GitHub *V
+// https://github.com/SugKrona/cs81-module4a-reviewtracker/blob/main/readingTracker.js
+
 //  (Existing Comment) Weekly reading log
 const readingLog = [
   { day: "Monday", book: "Dune", minutes: 30 },
